@@ -19,5 +19,9 @@ console.log(makeTransaction(10, 5000, 8000));
 console.log(makeTransaction(8, 2000, 10000));
 console.log(makeTransaction(10, 500, 5000));
 
-
+//          You ordered 5 droids worth 15000 credits!
+// VM117:15 You ordered 3 droids worth 3000 credits!
+// VM117:16 Insufficient funds!
+// VM117:17 Insufficient funds!
+// VM117:18 You ordered 10 droids worth 5000 credits!
 
