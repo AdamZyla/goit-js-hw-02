@@ -37,3 +37,9 @@ function getShippingCost(country){
 
 
 
+//         "Shipping to Australia will cost 170 credits"
+// VM263:30 Sorry, there is no delivery to your country
+// VM263:31 "Shipping to China will cost 100 credits"
+// VM263:32 "Shipping to Chile will cost 250 credits"
+// VM263:33 "Shipping to Jamaica will cost 120 credits"
+// VM263:34 Sorry, there is no delivery to your country
